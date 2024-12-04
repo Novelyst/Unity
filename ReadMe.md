@@ -1,20 +1,26 @@
-This is a fork of Unity made primarily to update the file structure for 1.21.2 changes, and hopefully to continue updating other textures to fit.
+![alt tag](https://i.imgur.com/HSBvGEX.png)
 
-### Differences From the Main Branch
-* Slicer was run on the pack to cover changes from 1.20.2 and 1.20.5.
-  * Leftover files were deleted.
-* Various files have been renamed or moved in accordance with structural changes made between 1.19.2 and 1.21.3 and Unity's textures for them will now appear in game.
-  * Entity equipment textures have been moved into the correct folders.
-  * Short grass and its associated files have been renamed.
-  * Turtle scutes have been renamed.
-  * Textures for Alex and Steve have been moved into the correct folders.
-* The bat texture for the old model has been swapped out.
-* Particle files removed between 1.19.2 and 1.21.3 have been deleted.
+Updates
+------
+We're back... kinda. I'm going to try to slowly update the pack for 1.18 but it may be at a snails pace without my usual helpers.
 
-### Current To-Do:
-* Doors, signs, hanging signs, boats, and boats with chests.
-* Planks.
-* Deep slate ores.
-  * Create alternative ore textures, pulling from the new, nicer ones from the 1.14 texture update.
-* Netherite armour?
-* Look through to check for textures that must be updated due to model and UV changes.
+For older, deprecated versions look in the branch section.
+
+![img](https://i.imgur.com/sxCLSxx.png)
+
+Photoshop Template
+------
+I hope this may be of use to those of you interested in texturing for Unity; I've tried to include as many samples and details as possible to start you off in the right direction. You can download the PSD [here](https://www.dropbox.com/s/d3tzqpg0ul8f9q6/unityTemplate.psd?dl=1 "Unity - PSD").
+
+
+Installation
+------
+Click the button below to see a list of available artifacts (builds) for Unity. Simply pick one of the artifacts listed and then click the blue download link (_eg: unity-1.16-27dadd4.171018552_) to begin the download. All downloads are working resource packs and can straight into your `.minecraft/resourcepacks` folder.
+
+[![ZIP](https://github.com/CyanideX/Unity/workflows/ZIP/badge.svg?branch=1.16&event=push)](https://github.com/CyanideX/Unity/actions?query=workflow%3AZIP)
+
+**Alternative method:** click the green _Code_ button on the top right and then click _Download ZIP_. Once you've finished downloading, un-zip the file to your `.minecraft/resourcepacks` folder.
+
+Contact
+------
+If you have any questions, please message me on Twitter [@theCyanideX.](https://twitter.com/theCyanideX/) Thanks!
