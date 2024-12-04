@@ -12,7 +12,6 @@ This is a fork of Unity made primarily to update the file structure for 1.21.2 c
 * Particle files removed between 1.19.2 and 1.21.3 have been deleted.
 
 ### Current To-Do:
-* Simple bat texture edit (no eye whites, consistency change).
 * Doors, signs, hanging signs, boats, and boats with chests.
 * Netherite armour?
 * Look through to check for textures that must be updated due to model and UV changes.
