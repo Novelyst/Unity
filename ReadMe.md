@@ -13,5 +13,8 @@ This is a fork of Unity made primarily to update the file structure for 1.21.2 c
 
 ### Current To-Do:
 * Doors, signs, hanging signs, boats, and boats with chests.
+* Planks.
+* Deep slate ores.
+  * Create alternative ore textures, pulling from the new, nicer ones from the 1.14 texture update.
 * Netherite armour?
 * Look through to check for textures that must be updated due to model and UV changes.
