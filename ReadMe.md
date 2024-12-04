@@ -14,5 +14,6 @@ This is a fork of Unity made primarily to update the file structure for 1.21.2 c
 ### Current To-Do:
 * Simple bat texture edit (no eye whites, consistency change).
 * Look through to check for textures that must be updated due to UV changes.
+  * So far, the dragon egg, torches, and redstone torches have been identified as possibly in need of changes.
 * Boats and signs.
 * Netherite armour?
